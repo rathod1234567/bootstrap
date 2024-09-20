@@ -1,0 +1,72 @@
+
+#about {
+    background-color: #F8EDED;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+#skills {
+    background-color: #f0f8ff;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+#projects {
+    background-color: #7bad94;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+#contact {
+    background-color: #fffacd;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+footer {
+    background-color: #FFF1DB; 
+    padding: 10px;
+    border-radius: 8px;
+}
+
+#about img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.portfolio_P img,
+.Ecom_P img,
+.Amazon_Clone_P img,
+.Expense_P img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+#contact input,
+#contact textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+#contact p {
+    margin-top: 15px;
+}
+
+.Links i {
+    font-size: 2rem;
+    margin-right: 15px;
+}
+
+.link a {
+    margin-right: 16px;
+}
+h1 {
+    font-size: 2rem;
+    margin: 0;
+}
